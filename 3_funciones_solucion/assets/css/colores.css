@@ -1,0 +1,16 @@
+body {
+background-color: rgb(3, 4, 75);
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+}
+
+#key {
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  border: solid 1px black;
+}

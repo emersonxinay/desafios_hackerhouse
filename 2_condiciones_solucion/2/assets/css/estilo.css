@@ -1,0 +1,16 @@
+/* si deseas pueden mejorar el estilo */
+.flex-v {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flex-h {
+  display: flex;
+  align-items: center;
+}
+
+.flex-v img {
+  height: 300px;
+  max-width: 400px;
+}
