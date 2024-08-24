@@ -1,1 +1,0 @@
-En esta solución se utilizaron 3 archivos js para renderizar en cada página, esto es solo una referencia y no es requerimiento que  lo hagan de esta forma.
